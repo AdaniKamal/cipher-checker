@@ -17,7 +17,13 @@ To develop a Python-based tool, Cipher Checker, that automates the process of as
 - Secure: Green
 4. <b> Command-Line Interface:</b> The tool will operate via the command line, providing flexibility for integration into larger security auditing processes.
 
-## Expected Outcome:
+## Dependencies
+Install:
+```
+pip install colorama
+```
+
+## Expected Outcome
 The CipherCheck tool will enable security professionals to efficiently evaluate the security of cipher suites.
 
 ```

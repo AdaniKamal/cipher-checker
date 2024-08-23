@@ -39,4 +39,7 @@ Our main reference is [CipherSuite Info](https://ciphersuite.info)
 2. https://ciphersuite.info/static/openapi.json
 
 ## Improvement
-- 
+
+Any suggestion for improvement are welcomed.
+
+By Adani Kamal :)
